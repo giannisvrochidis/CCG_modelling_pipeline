@@ -1,0 +1,28 @@
+input_sheet,output_sheet
+SOCIECONOMIC Input Data MAED,economic_demography
+HOU_RUR_ Inp,household_factors_rural
+HOU_URB_ Inp,household_factors_urban
+IND_InputDataMAED,industry_efficiency_factors
+IND_InputDataMAED,industry_efficiency_penetration
+IND_InputDataMAED,industry_intensity_electricity
+IND_InputDataMAED,industry_intensity_motivepower
+IND_InputDataMAED,industry_intensity_thermal
+IND_InputDataMAED,industry_manufacturing_factors
+IND_InputDataMAED,industry_manufacturing_penetrat
+IND_InputDataMAED,industry_manufacturing_ratio
+SER_ Inp,service_factors
+SER_ Inp,service_intensity
+SER_ Inp,service_penetration
+TRANSPORT Input Data MAED,transport_freight_generation
+TRANSPORT Input Data MAED,transport_freight_intensity
+TRANSPORT Input Data MAED,transport_freight_modal
+TRANSPORT Input Data MAED,transport_intercity_factors
+TRANSPORT Input Data MAED,transport_intercity_intensity
+TRANSPORT Input Data MAED,transport_intercity_modal
+TRANSPORT Input Data MAED,transport_international
+TRANSPORT Input Data MAED,transport_urban_factors
+TRANSPORT Input Data MAED,transport_urban_intensity
+TRANSPORT Input Data MAED,transport_urban_modal
+SOCIECONOMIC Input Data MAED,economic_gdp
+,
+SOCIECONOMIC Input Data MAED,???? ??? ??????? ???? ?????? ??? ?????

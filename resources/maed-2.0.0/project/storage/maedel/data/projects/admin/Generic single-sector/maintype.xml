@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<maintypes>
+  <maintype>
+    <id>AAA</id>
+    <value>Electricity consumption</value>
+    <sub1>Y</sub1>
+    <fname></fname>
+  </maintype>
+</maintypes>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<fueltypes>
+  <fueltype>
+    <id>1</id>
+    <value>Electricity</value>
+    <ftype>EL</ftype>
+  </fueltype>
+  <fueltype>
+    <id>2</id>
+    <value>Diesel</value>
+    <ftype>MF</ftype>
+  </fueltype>
+  <fueltype>
+    <id>3</id>
+    <value>Gasoline</value>
+    <ftype>MF</ftype>
+  </fueltype>
+  <fueltype>
+    <id>4</id>
+    <value>Aviation fuel</value>
+    <ftype>MF</ftype>
+  </fueltype>
+</fueltypes>

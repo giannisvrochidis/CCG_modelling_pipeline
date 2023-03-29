@@ -1,0 +1,12 @@
+glpsol.exe
+glpk_4_61.dll
+wtee.exe
+clp.exe
+~$master.xlsm
+*.bat
+*.xlsm
+Results/
+Parameters/
+ts/
+log_master.txt
+variables.bas

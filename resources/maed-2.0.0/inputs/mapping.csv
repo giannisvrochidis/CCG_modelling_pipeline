@@ -1,0 +1,59 @@
+input_book,input_sheet,input_range,output_book,output_sheet,output_range,conversion constant
+MAED_inputs.xlsx,SOCIECONOMIC Input Data MAED,D4:J16,maedd_IEA_template.xlsx,economic_demography,D2:J14,1
+MAED_inputs.xlsx,HOU_RUR_ Inp,D22:J28,maedd_IEA_template.xlsx,household_factors_rural,D4:J10,1
+MAED_inputs.xlsx,HOU_RUR_ Inp,D31:J37,maedd_IEA_template.xlsx,household_factors_rural,D12:J18,1
+MAED_inputs.xlsx,HOU_RUR_ Inp,D38:J40,maedd_IEA_template.xlsx,household_factors_rural,D19:J21,3.6
+MAED_inputs.xlsx,HOU_RUR_ Inp,D43:J50,maedd_IEA_template.xlsx,household_factors_rural,D22:J29,1
+MAED_inputs.xlsx,HOU_RUR_ Inp,D52:J56,maedd_IEA_template.xlsx,household_factors_rural,D31:J35,1
+MAED_inputs.xlsx,HOU_RUR_ Inp,D59:J59,maedd_IEA_template.xlsx,household_factors_rural,D37:J37,3.6
+MAED_inputs.xlsx,HOU_RUR_ Inp,D60:J77,maedd_IEA_template.xlsx,household_factors_rural,D38:J55,1
+MAED_inputs.xlsx,HOU_RUR_ Inp,D81:J83,maedd_IEA_template.xlsx,household_factors_rural,D58:J60,3.6
+MAED_inputs.xlsx,HOU_RUR_ Inp,D84:J94,maedd_IEA_template.xlsx,household_factors_rural,D61:J71,1
+MAED_inputs.xlsx,HOU_RUR_ Inp,D98:J100,maedd_IEA_template.xlsx,household_factors_rural,D74:J76,1
+MAED_inputs.xlsx,HOU_RUR_ Inp,D102:J104,maedd_IEA_template.xlsx,household_factors_rural,D78:J80,3.6
+MAED_inputs.xlsx,HOU_RUR_ Inp,D105:J110,maedd_IEA_template.xlsx,household_factors_rural,D81:J86,1
+MAED_inputs.xlsx,HOU_RUR_ Inp,D113:J113,maedd_IEA_template.xlsx,household_factors_rural,D88:J88,1
+MAED_inputs.xlsx,HOU_RUR_ Inp,D114:J121,maedd_IEA_template.xlsx,household_factors_rural,D89:J96,3.6
+MAED_inputs.xlsx,HOU_RUR_ Inp,D125:J131,maedd_IEA_template.xlsx,household_factors_rural,D99:J105,3.6
+MAED_inputs.xlsx,HOU_URB_ Inp,D17:J23,maedd_IEA_template.xlsx,household_factors_urban,D4:J10,1
+MAED_inputs.xlsx,HOU_URB_ Inp,D26:J32,maedd_IEA_template.xlsx,household_factors_urban,D12:J18,1
+MAED_inputs.xlsx,HOU_URB_ Inp,D33:J35,maedd_IEA_template.xlsx,household_factors_urban,D19:J21,3.6
+MAED_inputs.xlsx,HOU_URB_ Inp,D38:J51,maedd_IEA_template.xlsx,household_factors_urban,D22:J35,1
+MAED_inputs.xlsx,HOU_URB_ Inp,D54:J54,maedd_IEA_template.xlsx,household_factors_urban,D37:J37,3.6
+MAED_inputs.xlsx,HOU_URB_ Inp,D55:J72,maedd_IEA_template.xlsx,household_factors_urban,D38:J55,1
+MAED_inputs.xlsx,HOU_URB_ Inp,D76:J78,maedd_IEA_template.xlsx,household_factors_urban,D58:J60,3.6
+MAED_inputs.xlsx,HOU_URB_ Inp,D79:J89,maedd_IEA_template.xlsx,household_factors_urban,D61:J71,1
+MAED_inputs.xlsx,HOU_URB_ Inp,D93:J95,maedd_IEA_template.xlsx,household_factors_urban,D74:J76,1
+MAED_inputs.xlsx,HOU_URB_ Inp,D97:J99,maedd_IEA_template.xlsx,household_factors_urban,D78:J80,3.6
+MAED_inputs.xlsx,HOU_URB_ Inp,D100:J105,maedd_IEA_template.xlsx,household_factors_urban,D81:J86,1
+MAED_inputs.xlsx,HOU_URB_ Inp,D108:J108,maedd_IEA_template.xlsx,household_factors_urban,D88:J88,1
+MAED_inputs.xlsx,HOU_URB_ Inp,D109:J116,maedd_IEA_template.xlsx,household_factors_urban,D89:J96,3.6
+MAED_inputs.xlsx,HOU_URB_ Inp,D120:J126,maedd_IEA_template.xlsx,household_factors_urban,D99:J105,3.6
+MAED_inputs.xlsx,IND_InputDataMAED,D56:J70,maedd_IEA_template.xlsx,industry_efficiency_factors,D2:J16,1
+MAED_inputs.xlsx,IND_InputDataMAED,D33:J53,maedd_IEA_template.xlsx,industry_efficiency_penetration,D2:J22,1
+MAED_inputs.xlsx,IND_InputDataMAED,D13:J20,maedd_IEA_template.xlsx,industry_intensity_electricity,D2:J9,3.6
+MAED_inputs.xlsx,IND_InputDataMAED,D3:J10,maedd_IEA_template.xlsx,industry_intensity_motivepower,D2:J9,3.6
+MAED_inputs.xlsx,IND_InputDataMAED,D23:J30,maedd_IEA_template.xlsx,industry_intensity_thermal,D2:J9,3.6
+MAED_inputs.xlsx,IND_InputDataMAED,D74:J77,maedd_IEA_template.xlsx,industry_manufacturing_factors,D2:J5,1
+MAED_inputs.xlsx,IND_InputDataMAED,D80:J103,maedd_IEA_template.xlsx,industry_manufacturing_penetrat,D2:J25,1
+MAED_inputs.xlsx,IND_InputDataMAED,D106:J136,maedd_IEA_template.xlsx,industry_manufacturing_ratio,D2:J32,1
+MAED_inputs.xlsx,SER_ Inp,D12:J15,maedd_IEA_template.xlsx,service_factors,D3:J6,1
+MAED_inputs.xlsx,SER_ Inp,D18:J19,maedd_IEA_template.xlsx,service_factors,D8:J9,1
+MAED_inputs.xlsx,SER_ Inp,D20:J20,maedd_IEA_template.xlsx,service_factors,D10:J10,3.6
+MAED_inputs.xlsx,SER_ Inp,D11:J12,maedd_IEA_template.xlsx,service_factors,D8:J13,1
+MAED_inputs.xlsx,SER_ Inp,D23:J23,maedd_IEA_template.xlsx,service_factors,D13:J13,3.6
+MAED_inputs.xlsx,SER_ Inp,D26:J39,maedd_IEA_template.xlsx,service_intensity,D3:J16,3.6
+MAED_inputs.xlsx,SER_ Inp,D44:J59,maedd_IEA_template.xlsx,service_penetration,D3:J18,1
+MAED_inputs.xlsx,SER_ Inp,D63:J84,maedd_IEA_template.xlsx,service_penetration,D20:J41,1
+MAED_inputs.xlsx,TRANSPORT Input Data MAED,D5:J20,maedd_IEA_template.xlsx,transport_freight_generation,D2:J17,1
+MAED_inputs.xlsx,TRANSPORT Input Data MAED,D33:J40,maedd_IEA_template.xlsx,transport_freight_intensity,D2:J9,3.6
+MAED_inputs.xlsx,TRANSPORT Input Data MAED,D23:J30,maedd_IEA_template.xlsx,transport_freight_modal,D2:J9,1
+MAED_inputs.xlsx,TRANSPORT Input Data MAED,D43:J53,maedd_IEA_template.xlsx,transport_intercity_factors,D2:J12,1
+MAED_inputs.xlsx,TRANSPORT Input Data MAED,D68:J76,maedd_IEA_template.xlsx,transport_intercity_intensity,D2:J10,3.6
+MAED_inputs.xlsx,TRANSPORT Input Data MAED,D56:J65,maedd_IEA_template.xlsx,transport_intercity_modal,D2:J11,1
+MAED_inputs.xlsx,TRANSPORT Input Data MAED,D110:J110,maedd_IEA_template.xlsx,transport_international,D2:J2,31.536
+MAED_inputs.xlsx,TRANSPORT Input Data MAED,D111:J111,maedd_IEA_template.xlsx,transport_international,D3:J3,3.6
+MAED_inputs.xlsx,TRANSPORT Input Data MAED,D79:J87,maedd_IEA_template.xlsx,transport_urban_factors,D2:J10,1
+MAED_inputs.xlsx,TRANSPORT Input Data MAED,D100:J107,maedd_IEA_template.xlsx,transport_urban_intensity,D2:J9,3.6
+MAED_inputs.xlsx,TRANSPORT Input Data MAED,D90:J97,maedd_IEA_template.xlsx,transport_urban_modal,D2:J9,1
+MAED_inputs.xlsx,SOCIECONOMIC Input Data MAED,D23:J53,maedd_IEA_template.xlsx,economic_gdp,D2:J32,1

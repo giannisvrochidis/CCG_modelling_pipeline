@@ -1,0 +1,961 @@
+
+(CCG_pipeline-YW0lBtIn) C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0>echo off 
+Stopping any process running on the specified port.
+Starting MAED server.
+[Tue Mar 28 19:38:34 2023] PHP 7.4.7 Development Server (http://localhost:8765) started
+[Tue Mar 28 19:38:35 2023] [::1]:61806 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61806 [200]: GET /auth/login/checklogin.php
+[Tue Mar 28 19:38:35 2023] [::1]:61806 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61807 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61807 [200]: POST /app/geninf/maedd_geninf.php
+[Tue Mar 28 19:38:35 2023] [::1]:61807 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61808 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61808 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61808 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61809 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61809 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61809 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61810 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61810 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61810 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61811 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61811 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61811 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61812 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61812 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61812 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61813 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61813 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61813 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61814 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61814 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61814 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61815 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61815 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61815 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61816 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61816 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61816 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61817 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61817 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61817 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61818 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61818 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61818 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61819 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61819 [200]: POST /app/data/maedd_data.php
+[Tue Mar 28 19:38:35 2023] [::1]:61819 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61820 Accepted
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 192
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 496
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 504
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 716
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 811
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 811
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 811
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 811
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 825
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 826
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 827
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 825
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 826
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 827
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 825
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 826
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 827
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 825
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 826
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 827
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 825
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 826
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 827
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 825
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 826
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 827
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 825
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 826
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 827
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 825
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 826
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 827
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 875
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 883
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 875
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 883
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 875
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 883
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 875
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 883
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 875
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 883
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 875
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 883
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 875
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 883
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 875
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 883
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 740
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 740
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 740
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 740
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 763
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 769
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 771
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 784
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 788
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 789
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 763
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 769
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 771
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 784
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 788
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 789
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 763
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 769
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 771
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 784
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 788
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 789
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 763
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 769
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 771
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 784
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 788
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 789
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 763
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 769
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 771
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 784
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 788
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 789
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 763
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 769
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 771
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 784
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 788
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 789
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 763
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 769
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 771
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 784
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 788
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 789
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 763
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 769
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 771
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 784
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 788
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 789
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1021
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1043
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1242
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1242
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1242
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1242
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1242
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1242
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1242
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1242
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1914
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1915
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1914
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1915
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1914
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1915
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1914
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1915
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1914
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1915
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1914
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1915
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1914
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1915
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1914
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1915
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2040
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2040
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2040
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2040
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2051
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1945
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1945
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1945
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 1945
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2068
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2068
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2068
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2068
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2068
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2068
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2068
+[Tue Mar 28 19:38:35 2023] PHP Warning:  Division by zero in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\calculation\maedd_calculation.php on line 2068
+[Tue Mar 28 19:38:35 2023] [::1]:61820 [200]: POST /app/calculation/maedd_calculation.php
+[Tue Mar 28 19:38:35 2023] [::1]:61820 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61822 Accepted
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1355
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1355
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1355
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1355
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  A non-numeric value encountered in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 1389
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] PHP Warning:  is_nan() expects parameter 1 to be float, string given in C:\Users\jwrox\GitHub\CCG_pipeline\resources\maed-2.0.0\project\app\results\maedd_results_export.php on line 2962
+[Tue Mar 28 19:38:35 2023] [::1]:61822 [200]: POST /app/results/maedd_results_export.php
+[Tue Mar 28 19:38:35 2023] [::1]:61822 Closing
+[Tue Mar 28 19:38:35 2023] [::1]:61823 Accepted
+[Tue Mar 28 19:38:35 2023] [::1]:61823 [200]: GET /app/results/maedd_results_excel.php
+[Tue Mar 28 19:38:35 2023] [::1]:61823 Closing
+[Tue Mar 28 19:38:38 2023] [::1]:61828 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61829 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61828 [200]: GET /app.html
+[Tue Mar 28 19:38:38 2023] [::1]:61828 Closing
+[Tue Mar 28 19:38:38 2023] [::1]:61832 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61833 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61834 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61835 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61836 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61829 [200]: GET /references/bootstrap/css/bootstrap.min.css
+[Tue Mar 28 19:38:38 2023] [::1]:61832 [200]: GET /references/css/chkradio.css
+[Tue Mar 28 19:38:38 2023] [::1]:61833 [200]: GET /references/css/preloader.css
+[Tue Mar 28 19:38:38 2023] [::1]:61834 [200]: GET /references/jqwidgets/styles/jqx.base.css
+[Tue Mar 28 19:38:38 2023] [::1]:61835 [200]: GET /references/jqwidgets/styles/jqx.metro.css
+[Tue Mar 28 19:38:38 2023] [::1]:61836 [200]: GET /references/jquery/jquery-3.4.1.min.js
+[Tue Mar 28 19:38:38 2023] [::1]:61829 Closing
+[Tue Mar 28 19:38:38 2023] [::1]:61832 Closing
+[Tue Mar 28 19:38:38 2023] [::1]:61833 Closing
+[Tue Mar 28 19:38:38 2023] [::1]:61835 Closing
+[Tue Mar 28 19:38:38 2023] [::1]:61836 Closing
+[Tue Mar 28 19:38:38 2023] [::1]:61834 Closing
+[Tue Mar 28 19:38:38 2023] [::1]:61837 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61838 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61839 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61840 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61837 [200]: GET /references/ace/ace.min.css
+[Tue Mar 28 19:38:38 2023] [::1]:61841 Accepted
+[Tue Mar 28 19:38:38 2023] [::1]:61838 [200]: GET /references/css/app.css
+[Tue Mar 28 19:38:38 2023] [::1]:61839 [200]: GET /references/bootstrap/js/bootstrap.min.js
+[Tue Mar 28 19:38:38 2023] [::1]:61840 [200]: GET /references/bootbox/bootbox.min.js
+[Tue Mar 28 19:38:38 2023] [::1]:61843 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61841 [200]: GET /references/jqwidgets/jqx-all.js
+[Tue Mar 28 19:38:39 2023] [::1]:61843 [200]: GET /references/signals/signals.min.js
+[Tue Mar 28 19:38:39 2023] [::1]:61838 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61839 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61840 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61837 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61847 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61843 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61848 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61849 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61850 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61847 [200]: GET /references/crossroad/crossroad.min.js
+[Tue Mar 28 19:38:39 2023] [::1]:61851 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61848 [200]: GET /references/hasher/hasher.min.js
+[Tue Mar 28 19:38:39 2023] [::1]:61849 [200]: GET /references/jquery-lang/js.cookie.js
+[Tue Mar 28 19:38:39 2023] [::1]:61850 [200]: GET /references/jquery-lang/jquery-lang.js
+[Tue Mar 28 19:38:39 2023] [::1]:61851 [200]: GET /references/jquery-lang/initLang.js
+[Tue Mar 28 19:38:39 2023] [::1]:61847 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61848 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61849 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61850 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61852 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61851 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61841 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61853 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61854 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61852 [200]: GET /references/jquery/jquery-fileupload/jquery.ui.widget.js
+[Tue Mar 28 19:38:39 2023] [::1]:61855 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61853 [200]: GET /references/jquery/jquery-fileupload/jquery.iframe-transport.js
+[Tue Mar 28 19:38:39 2023] [::1]:61854 [200]: GET /references/jquery/jquery-fileupload/jquery.fileupload.js
+[Tue Mar 28 19:38:39 2023] [::1]:61856 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61855 [200]: GET /references/ace/ace-extra.min.js
+[Tue Mar 28 19:38:39 2023] [::1]:61857 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61856 [200]: GET /auth/users/users.js
+[Tue Mar 28 19:38:39 2023] [::1]:61852 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61858 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61857 [200]: GET /references/ace/ace-elements.min.js
+[Tue Mar 28 19:38:39 2023] [::1]:61853 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61854 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61859 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61858 [200]: GET /references/ace/ace.min.js
+[Tue Mar 28 19:38:39 2023] [::1]:61855 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61860 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61859 [200]: GET /app/app.js
+[Tue Mar 28 19:38:39 2023] [::1]:61856 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61861 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61860 [200]: GET /app/routes.js
+[Tue Mar 28 19:38:39 2023] [::1]:61857 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61862 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61861 [200]: GET /layout/navbar.html
+[Tue Mar 28 19:38:39 2023] [::1]:61858 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61863 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61862 [200]: GET /layout/menu.html
+[Tue Mar 28 19:38:39 2023] [::1]:61859 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61864 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61863 [200]: GET /layout/footer.html
+[Tue Mar 28 19:38:39 2023] [::1]:61860 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61865 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61864 [200]: GET /references/css/fonts/MaterialIcons-Regular.woff2
+[Tue Mar 28 19:38:39 2023] [::1]:61861 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61866 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61865 [200]: GET /layout/modals.html
+[Tue Mar 28 19:38:39 2023] [::1]:61862 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61867 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61866 [404]: GET /app/geninf/undefined_geninf.html - No such file or directory
+[Tue Mar 28 19:38:39 2023] [::1]:61863 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61867 [200]: POST /auth/login/access.php
+[Tue Mar 28 19:38:39 2023] [::1]:61867 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61864 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61866 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61865 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61868 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61868 [200]: POST /layout/maedd_menu.html
+[Tue Mar 28 19:38:39 2023] [::1]:61868 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61869 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61870 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61869 [200]: POST /index.html
+[Tue Mar 28 19:38:39 2023] [::1]:61869 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61870 [200]: POST /references/bootstrap/css/bootstrap.min.css
+[Tue Mar 28 19:38:39 2023] [::1]:61870 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61871 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61872 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61873 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61874 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61875 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61876 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61871 [200]: POST /references/css/app.css
+[Tue Mar 28 19:38:39 2023] [::1]:61872 [200]: POST /references/css/chkradio.css
+[Tue Mar 28 19:38:39 2023] [::1]:61873 [200]: POST /references/jquery/jquery-3.4.1.min.js
+[Tue Mar 28 19:38:39 2023] [::1]:61874 [200]: POST /auth/login/login.js
+[Tue Mar 28 19:38:39 2023] [::1]:61875 [200]: POST /references/bootstrap/js/bootstrap.min.js
+[Tue Mar 28 19:38:39 2023] [::1]:61876 [200]: POST /references/jquery-lang/js.cookie.js
+[Tue Mar 28 19:38:39 2023] [::1]:61871 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61877 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61872 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61877 [200]: POST /references/jquery-lang/jquery-lang.js
+[Tue Mar 28 19:38:39 2023] [::1]:61873 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61874 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61875 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61876 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61878 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61877 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61878 [200]: POST /references/jquery-lang/initLang.js
+[Tue Mar 28 19:38:39 2023] [::1]:61878 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61880 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61880 [200]: POST /auth/login/checklogin.php
+[Tue Mar 28 19:38:39 2023] [::1]:61880 Closing
+[Tue Mar 28 19:38:39 2023] [::1]:61881 Accepted
+[Tue Mar 28 19:38:39 2023] [::1]:61881 [200]: POST /Auth/login/login.html
+[Tue Mar 28 19:38:39 2023] [::1]:61881 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61882 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61883 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61882 [200]: POST /app.html
+[Tue Mar 28 19:38:40 2023] [::1]:61882 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61884 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61883 [200]: POST /references/bootstrap/css/bootstrap.min.css
+[Tue Mar 28 19:38:40 2023] [::1]:61883 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61885 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61886 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61887 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61888 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61884 [200]: POST /references/css/chkradio.css
+[Tue Mar 28 19:38:40 2023] [::1]:61885 [200]: POST /references/css/preloader.css
+[Tue Mar 28 19:38:40 2023] [::1]:61886 [200]: POST /references/jqwidgets/styles/jqx.base.css
+[Tue Mar 28 19:38:40 2023] [::1]:61887 [200]: POST /references/jqwidgets/styles/jqx.metro.css
+[Tue Mar 28 19:38:40 2023] [::1]:61888 [200]: POST /references/jquery/jquery-3.4.1.min.js
+[Tue Mar 28 19:38:40 2023] [::1]:61884 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61885 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61887 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61888 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61886 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61889 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61890 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61891 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61892 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61893 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61889 [200]: POST /references/ace/ace.min.css
+[Tue Mar 28 19:38:40 2023] [::1]:61890 [200]: POST /references/css/app.css
+[Tue Mar 28 19:38:40 2023] [::1]:61891 [200]: POST /references/bootstrap/js/bootstrap.min.js
+[Tue Mar 28 19:38:40 2023] [::1]:61892 [200]: POST /references/bootbox/bootbox.min.js
+[Tue Mar 28 19:38:40 2023] [::1]:61894 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61893 [200]: POST /references/jqwidgets/jqx-all.js
+[Tue Mar 28 19:38:40 2023] [::1]:61890 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61891 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61892 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61894 [200]: POST /references/signals/signals.min.js
+[Tue Mar 28 19:38:40 2023] [::1]:61889 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61894 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61895 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61893 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61896 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61897 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61898 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61895 [200]: POST /references/crossroad/crossroad.min.js
+[Tue Mar 28 19:38:40 2023] [::1]:61896 [200]: POST /references/hasher/hasher.min.js
+[Tue Mar 28 19:38:40 2023] [::1]:61897 [200]: POST /references/jquery-lang/js.cookie.js
+[Tue Mar 28 19:38:40 2023] [::1]:61898 [200]: POST /references/jquery-lang/jquery-lang.js
+[Tue Mar 28 19:38:40 2023] [::1]:61895 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61896 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61897 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61898 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61899 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61900 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61901 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61902 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61899 [200]: POST /references/jquery-lang/initLang.js
+[Tue Mar 28 19:38:40 2023] [::1]:61899 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61903 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61900 [200]: POST /references/jquery/jquery-fileupload/jquery.ui.widget.js
+[Tue Mar 28 19:38:40 2023] [::1]:61901 [200]: POST /references/jquery/jquery-fileupload/jquery.iframe-transport.js
+[Tue Mar 28 19:38:40 2023] [::1]:61902 [200]: POST /references/jquery/jquery-fileupload/jquery.fileupload.js
+[Tue Mar 28 19:38:40 2023] [::1]:61903 [200]: POST /references/ace/ace-extra.min.js
+[Tue Mar 28 19:38:40 2023] [::1]:61900 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61901 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61902 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61903 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61904 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61905 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61906 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61907 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61908 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61904 [200]: POST /auth/users/users.js
+[Tue Mar 28 19:38:40 2023] [::1]:61905 [200]: POST /references/ace/ace-elements.min.js
+[Tue Mar 28 19:38:40 2023] [::1]:61906 [200]: POST /references/ace/ace.min.js
+[Tue Mar 28 19:38:40 2023] [::1]:61907 [200]: POST /app/app.js
+[Tue Mar 28 19:38:40 2023] [::1]:61908 [200]: POST /app/routes.js
+[Tue Mar 28 19:38:40 2023] [::1]:61904 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61905 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61906 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61907 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61908 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61909 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61909 [200]: POST /layout/navbar.html
+[Tue Mar 28 19:38:40 2023] [::1]:61909 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61910 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61911 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61912 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61910 [200]: POST /layout/menu.html
+[Tue Mar 28 19:38:40 2023] [::1]:61911 [200]: POST /layout/footer.html
+[Tue Mar 28 19:38:40 2023] [::1]:61912 [200]: POST /layout/modals.html
+[Tue Mar 28 19:38:40 2023] [::1]:61910 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61911 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61912 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61913 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61913 [200]: POST /layout/home.html
+[Tue Mar 28 19:38:40 2023] [::1]:61913 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61914 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61914 [200]: POST /references/css/fonts/MaterialIcons-Regular.woff2
+[Tue Mar 28 19:38:40 2023] [::1]:61914 Closing
+[Tue Mar 28 19:38:40 2023] [::1]:61915 Accepted
+[Tue Mar 28 19:38:40 2023] [::1]:61915 [200]: POST /auth/login/access.php
+[Tue Mar 28 19:38:40 2023] [::1]:61915 Closing
+[Tue Mar 28 19:38:44 2023] [::1]:61925 Accepted
+[Tue Mar 28 19:38:44 2023] [::1]:61925 [200]: POST /app/study/study.html
+[Tue Mar 28 19:38:44 2023] [::1]:61925 Closing
+[Tue Mar 28 19:38:44 2023] [::1]:61926 Accepted
+[Tue Mar 28 19:38:44 2023] [::1]:61926 [200]: POST /app/study/study.js?_=1680025120123
+[Tue Mar 28 19:38:44 2023] [::1]:61926 Closing
+[Tue Mar 28 19:38:44 2023] [::1]:61927 Accepted
+[Tue Mar 28 19:38:44 2023] [::1]:61927 [200]: POST /app/study/study.php
+[Tue Mar 28 19:38:44 2023] [::1]:61927 Closing
+^C

@@ -1,0 +1,51 @@
+{
+  "maed": {
+    "maed_type": "maedd",
+    "years": [ "2022", "2025", "2030", "2035", "2040", "2045", "2050"],
+    "input_file": "./resources/maed-2.0.0/inputs/inputfile.xslx"
+  },
+  "osemosys": {
+    "model_folder": "./resources/clicSAND-1.1/Models/Algeria_Base_2023-01-23_10-30-30",
+    "data_source": "./resources/clicSAND-1.1/Models/Algeria_Base_2023-01-23_10-30-30/Algeria_Base_SAND.xlsm",
+    "model_file": "./resources/clicSAND-1.1/Templates/OSeMOSYS_code.txt",
+    "cbc_ratio": "1"
+  },
+  "flextool": {
+    "modelling_process_options": {
+      "active_input_files": "model_to_run.xlsx",
+      "active_scenarios": [
+        "Base"
+      ],
+      "leave_results_file_open": true,
+      "import_results_after_optim": true,
+      "plots_in_results_file": true,
+      "parallel_calculation": true,
+      "run_in_background": true
+    },
+    "settings_and_filters": {
+      "leave_out_nodes": [],
+      "leave_out_grids": [],
+      "time_series_filter": [
+        "ts_time",
+        "ts_energy",
+        "ts_import",
+        "ts_cf",
+        "ts_reserve_node",
+        "ts_reserve_nodeGroup",
+        "ts_inflow",
+        "ts_unit"
+      ],
+      "model_file": "flexmodel.mod",
+      "solver": "CLP",
+      "clp_option": "barr",
+      "clear_res_folder": "TRUE",
+      "use_wtee": "TRUE",
+      "max_parallel": "3",
+      "input_folder": "InputData",
+      "time_series_folder": "ts",
+      "results_folder": "Results",
+      "plot_start": "1",
+      "plot_length": "168"
+    }
+  }
+}

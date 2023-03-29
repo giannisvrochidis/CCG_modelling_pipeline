@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<maintypes>
+  <maintype>
+    <id>AAA</id>
+    <value>Industry</value>
+    <sub1>N</sub1>
+    <fname></fname>
+  </maintype>
+  <maintype>
+    <id>S</id>
+    <value>Transport</value>
+    <sub1>N</sub1>
+    <fname></fname>
+  </maintype>
+  <maintype>
+    <id>S1</id>
+    <value>Household</value>
+    <sub1>N</sub1>
+    <fname></fname>
+  </maintype>
+  <maintype>
+    <id>S2</id>
+    <value>Service</value>
+    <sub1>N</sub1>
+    <fname></fname>
+  </maintype>
+  <maintype>
+    <id>S3</id>
+    <value>Agriculture</value>
+    <sub1>N</sub1>
+    <fname></fname>
+  </maintype>
+  <maintype>
+    <id>S4</id>
+    <value>Additional sector 1</value>
+    <sub1>N</sub1>
+    <fname></fname>
+  </maintype>
+  <maintype>
+    <id>S5</id>
+    <value>Additional sector 2</value>
+    <sub1>N</sub1>
+    <fname></fname>
+  </maintype>
+</maintypes>

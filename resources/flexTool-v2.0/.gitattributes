@@ -1,0 +1,5 @@
+* text=auto
+*.xlsx binary
+*.xlsm binary
+*.frx binary
+*.frm text eol=crlf
