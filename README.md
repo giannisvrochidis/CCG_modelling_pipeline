@@ -1,4 +1,4 @@
-# Raw To Deal
+# CCG energy modelling pipeline
 
 ## Getting Started
 
