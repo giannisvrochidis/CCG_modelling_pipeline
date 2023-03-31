@@ -2,7 +2,9 @@
 testing
 
 #inputs, runs
-
+inputs
+runs
+resources/maed-2.0.0/project/storage
 
 # Resources
 resources/*/log_*.txt

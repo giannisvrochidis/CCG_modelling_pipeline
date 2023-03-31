@@ -1,6 +1,7 @@
 from utils import read_configuration, open_work_book, get_sheet, set_checkbox_value, set_cell_values, run_excel_macro, format_path
 from shutil import copy
 import PeriodsSelection
+from pick import pick
 
 settings_and_filters_cells = {
     "leave_out_nodes": "C3",

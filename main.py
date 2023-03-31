@@ -40,8 +40,8 @@ if selected_option == f'{maed_option} -> {osemosys_option} -> {flextool_option}'
     scenario = input("Select OSeMOSYS scenario (Base, NZv1, NZv2, LCv1, LCv2, FF): ")
     model_dir_path, data_source_path=maed_to_sand.run(country, scenario, maed_results,maed_years,selected_option)
     print(data_source_path)
-    # output_csv=run(country, scenario, model_dir_path, data_source_path)
-    output_csv=f"./testing/SDK_dummy_results.csv"
+    output_csv=osemosys.run(country, scenario, model_dir_path, data_source_path)
+    # output_csv=f"./testing/SDK_dummy_results.csv"
 
     #FlexTool 2.0
     sdk_to_ft.run(country, scenario, output_csv, data_source_path)
@@ -60,7 +60,7 @@ elif selected_option == f'{osemosys_option} -> {flextool_option}':
     
 elif selected_option == f'{maed_option} -> {osemosys_option}':
     maed_type, selected_option, maed_scenario, maed_years = maed_config.run(country)
-    maed_results =maed.run(country, maed_type, selected_option, maed_scenario, maed_year,selected_option)
+    maed_results =maed.run(country, maed_type, selected_option, maed_scenario, maed_years)
 
     scenario = input("Select OSeMOSYS scenario (Base, NZv1, NZv2, LCv1, LCv2, FF): ")
     model_dir_path, data_source_path=maed_to_sand.run(country, scenario, maed_results,maed_years)
