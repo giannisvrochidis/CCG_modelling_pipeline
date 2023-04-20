@@ -28,7 +28,6 @@ def get_sdk_data_as_df(country, scenario, sdk_path):
         wb.app.quit()
 
         # df= pd.read_excel(sdk_path, sheet_name="Parameters")
-        # df.to_csv('df.csv')
         return df
     except: print("Failed to read SDK.")
 
