@@ -59,8 +59,8 @@ elif selected_option == f'{osemosys_option} -> {flextool_option}':
     #OSeMOSYS
     scenario = input("Select OSeMOSYS scenario (Base, NZv1, NZv2, LCv1, LCv2, FF): ")
     model_dir_path, data_source_path = download_sand.run(country, scenario, output_dir)
-    # output_csv=osemosys.run(country, scenario, model_dir_path, data_source_path)
-    output_csv=f"./testing/SDK_dummy_results.csv"
+    output_csv=osemosys.run(country, scenario, model_dir_path, data_source_path)
+    # output_csv=f"./testing/SDK_dummy_results.csv"
 
     #FlexTool 2.0
     sdk_to_ft.run(country, scenario, output_csv, data_source_path, output_dir)
