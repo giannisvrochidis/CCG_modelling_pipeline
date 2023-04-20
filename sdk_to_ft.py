@@ -11,13 +11,25 @@ import warnings
 import numpy as np
 import download_sand
 from download_sand import download_sdk
-
+import xlwings as xw
 # %% [markdown]
 # ## Define functions for downloading or locating locally OSeMOSYS SAND file
 
 def get_sdk_data_as_df(country, scenario, sdk_path):
     if sdk_path: print("Reading SDK for country: " + country + ", scenario: " + scenario + "...")
-    try: return pd.read_excel(sdk_path, sheet_name="Parameters")
+
+    wb=xw.Book(sdk_path)
+    sheet=wb.sheets['Parameters']
+    try: 
+        df = sheet.range('A1:BN48757')
+        df=pd.DataFrame(df.value)
+        df.columns = df.iloc[0]
+        df = df[1:]
+        wb.app.quit()
+
+        # df= pd.read_excel(sdk_path, sheet_name="Parameters")
+        # df.to_csv('df.csv')
+        return df
     except: print("Failed to read SDK.")
 
 
@@ -48,6 +60,7 @@ def get_data_coll(country,scenario):
 # ## Define functions for preparing FlexTool 2.0 input data
 
 def flextool_units(df, ft_template, year, output_csv):
+    print(df[df['Parameter']=='VariableCost'])
     df_pwr = df[df.TECHNOLOGY.str.contains('PWR', na=False)]
     df_pwr = df_pwr[df_pwr["Parameter"].isin(['CapitalCost', 'EmissionActivityRatio', 'FixedCost', 'InputActivityRatio', 'OperationalLife',
                                               'OutputActivityRatio', 'ResidualCapacity', 'VariableCost'])]
@@ -59,7 +72,7 @@ def flextool_units(df, ft_template, year, output_csv):
         lambda x: x*1000)
     df_units['Efficiency'] = df_units['OutputActivityRatio'] / \
         (df_units['InputActivityRatio'])
-    
+    print(df_pwr)
     ft_units = pd.read_excel(ft_template, sheet_name="units")
     ft_units.index = ft_units['unit type']
     # ft_units['capacity (MW)'] = df_units['ResidualCapacity']
@@ -242,34 +255,36 @@ def extract_data(country, scenario, ft_template, ft_data):
     copy(ft_template_copy_filename,ft_running_input_filename)
     return ft_template_copy_filename
 
-def create_copy(country, scenario, ft_template_copy_filename, new_dir):
-    copied_file_path = new_dir+country + "_" + scenario + "_FT.xlsx"
-    os.makedirs(new_dir, exist_ok=True)
-    copy(ft_template_copy_filename, copied_file_path)
+def create_copy(country, scenario, ft_template_copy_filename, output_dir):
+    copied_file_path = f"{output_dir}/{country}_{scenario}_FT.xlsx"
+    try:
+         if not os.path.exists(output_dir): os.makedirs(output_dir)
+         copy(ft_template_copy_filename, copied_file_path)
+         
+    except:
+        print('Failed to create FlexTool running folder')
+
 
 # %% [markdown]
 # # Choose country and scenario
 
-def run(country, scenario, output_csv, data_source_path):
+def run(country, scenario, output_csv, data_source_path, output_dir):
     ft_template ="./resources/Mapping/Templates/template.xlsx"
     print("\n---------- OSeMOSYS to FlexTool v2.0 ----------\n")
     year = int(input("Enter a simulation year from 2015 to 2070 for FlexTool: "))
     if not country or not scenario: raise Exception("You need to provide a country, a scenario and a simulation year for FlexTool.")
-    print(data_source_path)
     df = get_sdk_data_as_df(country, scenario, data_source_path)
     data_coll_file=get_data_coll(country, scenario)
     ts_folder = "./resources/Mapping/timeseries_inputs/"
     ft_data = ft_calc(country, df, data_coll_file, ft_template, ts_folder,year,output_csv)
     ft_template_copy_filename=extract_data(country, scenario,ft_template, ft_data)
-
-    new_dir = f"./runs/FlexTool/{country}_{year}_run_{strftime('%Y-%m-%d_%H-%M-%S')}/"
-    create_copy(country, scenario, ft_template_copy_filename, new_dir)
-    return new_dir
+    create_copy(country, scenario, ft_template_copy_filename, output_dir)
 
 
 if __name__ == "__main__":
     country = input("Enter a country: ")
-    scenario = input("Enter a scenario (Base, NZ, LC, FF): ")
+    scenario = input("Select SDK scenario (Base, NZv1, NZv2, LCv1, LCv2, FF): ")
     output_csv=f"./testing/SDK_dummy_results.csv"
-    model_dir_path, data_source_path = download_sand.run(country, scenario)
-    run(country, scenario, output_csv, data_source_path)
+    output_dir = f"./runs/FlexTool/{country}_{strftime('%Y-%m-%d_%H-%M-%S')}"
+    model_dir_path, data_source_path = download_sand.run(country, scenario, output_dir)
+    run(country, scenario, output_csv, data_source_path, output_dir)

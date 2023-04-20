@@ -2,6 +2,8 @@ import download_sand
 import pandas as pd
 import xlwings as xw
 from utils import read_configuration, format_path
+from pick import pick
+from time import strftime
 
 def read_maed_results_IEA(maed_results, maed_years, first_col, last_col):
     wb1 = xw.Book(maed_results)
@@ -22,7 +24,7 @@ def read_maed_results_IEA(maed_results, maed_years, first_col, last_col):
     maed_outputs.loc['RESELC',:]=sheet_1.range((751, first_col), (751, last_col)).value
     maed_outputs.loc['COMELC',:]=sheet_1.range((677, first_col), (677, last_col)).value
     maed_outputs.loc['COMHEL',:]=pd.DataFrame(sheet_1.range((741, first_col), (741, last_col)).value).T.values-(sheet_1.range((738, first_col), (738, last_col)).value)
-    wb1.close()
+    wb1.app.quit()
     return maed_outputs
 
 def read_maed_results_TSDK(maed_results, maed_years, first_col, last_col):
@@ -44,11 +46,18 @@ def read_maed_results_TSDK(maed_results, maed_years, first_col, last_col):
     maed_outputs.loc['RESELC',:]=sheet_1.range((525, first_col), (525, last_col)).value
     maed_outputs.loc['COMELC',:]=sheet_1.range((653, first_col), (653, last_col)).value
     maed_outputs.loc['COMHEL',:]=pd.DataFrame(sheet_1.range((643, first_col), (643, last_col)).value).T.values-(sheet_1.range((640, first_col), (640, last_col)).value)
-    wb1.close()
+    wb1.app.quit()
     return maed_outputs
 
 def prepare_sand_df(maed_outputs, maed_years, start_year, end_year, data_source_path):
-    df=pd.read_excel(data_source_path, sheet_name='Parameters')
+    wb=xw.Book(data_source_path)
+    sheet=wb.sheets['Parameters']
+    df = sheet.range('A1:BN48757')
+    df=pd.DataFrame(df.value)
+    df.columns = df.iloc[0]
+    df = df[1:]
+    wb.app.quit()
+    # df=pd.read_excel(data_source_path, sheet_name='Parameters')
     for row in maed_outputs.index:
         parameter=pd.Series(list(maed_outputs.loc[row,:]))
         ind=maed_outputs.loc[row,:].name
@@ -79,14 +88,15 @@ def write_sand(df, data_source_path):
     table_name = "Table1" 
     sheet.api.ListObjects.Add(1, data_range.api, 0, 1, table_name)
     wb.save(data_source_path)
-    wb.close()
+    wb.app.quit()
     return data_source_path
 
 
-def run(country, scenario, maed_results,maed_years, selected_option):
-    model_dir_path, data_source_path = download_sand.run(country, scenario)
+def run(country, scenario, maed_results,maed_years, selected_option, output_dir):
+    model_dir_path, data_source_path = download_sand.run(country, scenario, output_dir)
     first_col=2
     last_col=first_col+len(maed_years)-1
+    print("\n-------- Transferring MAED Results to OSeMOSYS SAND --------\n")
     if selected_option == 'IEA':
         maed_outputs=read_maed_results_IEA(maed_results, maed_years, first_col, last_col)
     else:
@@ -95,6 +105,7 @@ def run(country, scenario, maed_results,maed_years, selected_option):
     end_year=2070
     df= prepare_sand_df(maed_outputs, maed_years, start_year, end_year, data_source_path)
     write_sand(df, data_source_path)
+    print("\n-------- SAND file updated and saved --------\n")
     return model_dir_path, data_source_path
 
 if __name__ == "__main__":
@@ -105,4 +116,5 @@ if __name__ == "__main__":
     maed_years = config["years"]
     selected_option, _ = pick(["Transport Starter Kits", "IEA"], "Which MAED template do you want to use?", indicator='=>')
     maed_years=[2022, 2025, 2030, 2035, 2040, 2045, 2050]
-    run(country, scenario, maed_results,maed_years,selected_option)
+    output_dir = f"./runs/MAED-OSeMOSYS/{country}_{strftime('%Y-%m-%d_%H-%M-%S')}"
+    run(country, scenario, maed_results,maed_years,selected_option,output_dir)

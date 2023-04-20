@@ -5,13 +5,13 @@ import shutil
 
 def run(country):
     app = xw.App(visible=False)
-    map=pd.read_csv(format_path(f"./resources/maed-2.0.0//inputs/mapping.csv"))
+    map=pd.read_csv(format_path(f"./resources/maed-2.0.0/inputs/mapping.csv"))
     for i in range(0,len(map)):
 
         new_input_file_sheet_name=map.loc[i,'output_sheet']
         maed_inputs_sheet_name=map.loc[i,'input_sheet']
 
-        path = f"./resources/maed-2.0.0//inputs/"
+        path = f"./resources/maed-2.0.0/inputs/"
 
         # Define the source and destination file paths and create new input file
         maed_inputs_path = path+map.loc[i,'input_book']

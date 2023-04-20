@@ -1,2 +1,2 @@
 @echo off
-pipenv run main.py
+pipenv run python main.py

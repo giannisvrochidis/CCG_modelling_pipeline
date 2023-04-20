@@ -9,7 +9,7 @@ def run(country):
             maed_years = maed_years=[2022, 2025, 2030, 2035, 2040, 2045, 2050]
         else:
             scenario = input("Enter a scenario (BAU, MS, NZ): ")
-            maed_years = input("Enter years for MAED analysis separated by commas: ")
+            maed_years = input("Enter years for MAED analysis separated by commas. Make sure you include at least one historic year before 2021: ")
             maed_years=maed_years.split(",")
             maed_years = [eval(i) for i in maed_years]
     elif maed_type == "maedel":

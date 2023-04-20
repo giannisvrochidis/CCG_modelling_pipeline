@@ -54,28 +54,27 @@ def find_sdk_file_path(country, scenario):
         except: return(print("Failed to find SDK."))
 
 
-def clone_sdk_before_run(country, scenario, osemosys_folder, sdk_file):
-    new_dir=os.path.join(osemosys_folder, country+'_'+scenario+'_'+datetime.now().strftime('%Y-%m-%d_%H-%M-%S'))
+def clone_sdk_before_run(country, scenario, output_dir, sdk_file):
     try:
-         os.makedirs(new_dir)
-         runnable=copy(sdk_file,new_dir)
-         return new_dir, runnable
+         if not os.path.exists(output_dir): os.makedirs(output_dir)
+         runnable=copy(sdk_file,output_dir)
+         return output_dir, runnable
     except:
-        print('Failed to create osemosys running folder')
+        print('Failed to create OSeMOSYS running folder')
 
 
-def run(country, scenario):
-    print("\n---------- OSeMOSYS Starter Data Kits ----------\n")
+def run(country, scenario, output_dir):
+    print("\n----------Downloading OSeMOSYS Starter Data Kits ----------\n")
     if not country or not scenario: raise Exception("You need to provide a country and a scenario.")
     sdk_file_path=find_sdk_file_path(country, scenario)
-    osemosys_folder='./runs/OSeMOSYS/'
-    new_dir_path, new_file_path=clone_sdk_before_run(country, scenario, osemosys_folder, sdk_file_path)
-    return new_dir_path, new_file_path
+    new_dir_path, new_file_path=clone_sdk_before_run(country, scenario, output_dir, sdk_file_path)
+    return output_dir, new_file_path
 
 
 if __name__ == "__main__":
     country = input("Enter a country: ")
-    scenario = input("Enter a scenario (Base, NZ, LC, FF): ")
+    scenario = input("Select OSeMOSYS scenario (Base, NZv1, NZv2, LCv1, LCv2, FF): ")
+    output_dir = f"./runs/OSeMOSYS/{country}_{scenario}_{strftime('%Y-%m-%d_%H-%M-%S')}"
     model_dir_path, data_source_path = run(country, scenario)
     print("Model Folder Path:", model_dir_path, "\n")
     print("Data Source Path:", data_source_path, "\n")

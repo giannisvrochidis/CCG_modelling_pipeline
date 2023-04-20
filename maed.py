@@ -147,7 +147,7 @@ def execute_maed_scenario(years, results_path, maed_input, maed_type, case_study
     export_results(results_path, results)
 
 def create_copy(file_path, output_filename):
-    copied_file_path = f"./runs/{output_filename}"
+    copied_file_path = output_filename
     os.makedirs(os.path.dirname(copied_file_path), exist_ok=True)
     copy(file_path, copied_file_path)
 
@@ -164,14 +164,13 @@ def choose_maed_input_menu(country, scenario, maed_type, years, selected_option)
 
     return maed_input, current_filename
 
-def run(country, maed_type, selected_option, scenario, years):
+def run(country, maed_type, selected_option, scenario, years, output_dir):
     print("\n---------- MAED ----------\n")
     config = read_configuration("maed")
     #years = config["years"]     
     path = "./resources/maed-2.0.0"
     maed_input, current_filename = choose_maed_input_menu(country, scenario, maed_type, years, selected_option)
-    copied_filename = f"./MAED/{maed_type}/{country}_{scenario}_{strftime('%Y-%m-%d_%H-%M-%S')}"
-    create_copy(maed_input, copied_filename+"/maed_input.xlsx")
+    create_copy(maed_input, output_dir+f"/{country}_maed_input.xlsx")
     results_path = "./resources/maed-2.0.0/maed_results.xlsx"
     print("Starting MAED...")
     logfile = open('./resources/maed-2.0.0/maed_py.log.txt', 'w+')
@@ -179,7 +178,7 @@ def run(country, maed_type, selected_option, scenario, years):
     subprocess.Popen(f"server.bat {PORT}", shell=True, cwd=path, stdout=logfile, stderr=logfile)
     case_study_name = duplicate_template(country, scenario, maed_type,current_filename)
     execute_maed_scenario(years, results_path, maed_input, maed_type, case_study_name)
-    results_file=create_copy(results_path, copied_filename+"/maed_results.xlsx")
+    results_file=create_copy(results_path, output_dir+f"/{country}_maed_results.xlsx")
     if pick(["yes", "no"], "Do you want to open the MAED interface?", indicator='=>')[0] == "yes":
         webbrowser.open(prepend_base(f"/app.html#/GeneralInformation/{case_study_name}")) # Comment out to avoid opening the browser
     print("MAED done!")
@@ -189,4 +188,5 @@ def run(country, maed_type, selected_option, scenario, years):
 if __name__ == "__main__":
     country = input("Enter a country: ")
     maed_type, selected_option, scenario, years = maed_config.run(country)
-    run(country, maed_type, selected_option, scenario, years)
+    run(country, maed_type, selected_option, scenario, years, output_dir)
+    output_dir = f"./runs/MAED/{maed_type}/{country}_{selected_option}_{strftime('%Y-%m-%d_%H-%M-%S')}"
