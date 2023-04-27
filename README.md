@@ -1,4 +1,4 @@
-# CCG energy modelling pipeline
+# Raw To Deal
 
 ## Getting Started
 
@@ -15,31 +15,25 @@
 
 3. You need to change your Windows `regional format` from the `regional settings` to `English (United Kingdom)`.
 
-4. You need to change your Office language to `English` if it is not already.
+4. You need to change your Microsoft Office language to `English` if it is not already.
 
 5. You need to `enable macros` in Microsoft Excel.
+
+### Run the application
+
+Start the pipeline by running `main.bat` and select the option that you want to execute by moving the arrow keys of your keyboard:
+
+```
+ Please choose which parts of the pipeline you want to execute:
+    MAED -> Osemosys -> FlexTool
+    MAED -> Osemosys
+ => Osemosys -> FlexTool
+    MAED
+    Osemosys
+    FlexTool
+    Exit
+```
 
 ### Configure the pipeline
 
 Open the `settings.json` configuration file and enter your configuration settings.
-
-### Run the application
-
-1. Open a cmd and head to the project's directory.
-
-2. Enter the virtual environment by running:
-```
-    pipenv shell
-```
-
-3. To run the whole pipeline run:
-```
-    python main.py
-```
-or alternatively run a specific script.
-
-```
-    python maed.py
-    python osemosys.py
-    python flextool.py
-```

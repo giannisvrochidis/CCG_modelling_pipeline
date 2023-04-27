@@ -3,7 +3,8 @@ def run(country):
     # maed_type = pick(["maedd", "maedel"], "Which MAED module do you want to use?", indicator='=>')
     maed_type="maedd"
     if maed_type == "maedd":
-        selected_option, _ = pick(["Transport Starter Kits", "IEA"], "Which MAED template do you want to use?", indicator='=>')
+        # selected_option, _ = pick(["Transport Starter Kits", "IEA"], "Which MAED template do you want to use?", indicator='=>')
+        selected_option = 'IEA'
         if selected_option == "IEA":
             scenario = ""
             maed_years = maed_years=[2022, 2025, 2030, 2035, 2040, 2045, 2050]

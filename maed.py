@@ -43,7 +43,7 @@ def create_data_from_template(df, sheet_name):
 
     if client and "weekly" not in sheet_name: 
         data["SID"] = f"{client}_{year}"
-
+    print(data)
     return json.dumps(data), id
 
 
@@ -91,7 +91,7 @@ def edit_maedel_general_info(years, cookies):
     data = {
         "id": "1",
         "studyName": cookies["titlecs"],
-        "Year": ",".join(years),
+        # "Year": ",".join(years),
         "Desc": None,
         "action": "update"
     }
@@ -132,7 +132,6 @@ def duplicate_template(country, scenario, maed_type, current_filename):
 def execute_maed_scenario(years, results_path, maed_input, maed_type, case_study_name):
     phpsessid = get_php_session_id()
     cookies = get_cookies(phpsessid, maed_type, case_study_name)
-    
     print("Importing data to MAED...")
     if (maed_type == "maedd"): edit_maedd_general_info(years, cookies)
     elif (maed_type == "maedel"): edit_maedel_general_info(years, cookies)
@@ -161,7 +160,11 @@ def choose_maed_input_menu(country, scenario, maed_type, years, selected_option)
         maed_input = prepare_IEA_maed_input.run(country)
         if maed_input is None: maed_input = f"./resources/maed-2.0.0//inputs/{maed_type}_IEA_template.xlsx"
         current_filename = "IEA_template"
-
+    elif selected_option =="MAED-EL":
+        maed_input= maed_input = "./resources/maed-2.0.0//inputs/maedel_input.xlsx"
+        current_filename = "TSDK_template"
+    else:
+        raise Exception("Invalid maed type. Choose between: 'maedd', 'maedel'")
     return maed_input, current_filename
 
 def run(country, maed_type, selected_option, scenario, years, output_dir):
@@ -180,7 +183,7 @@ def run(country, maed_type, selected_option, scenario, years, output_dir):
     execute_maed_scenario(years, results_path, maed_input, maed_type, case_study_name)
     results_file=create_copy(results_path, output_dir+f"/{country}_maed_results.xlsx")
     if pick(["yes", "no"], "Do you want to open the MAED interface?", indicator='=>')[0] == "yes":
-        webbrowser.open(prepend_base(f"/app.html#/GeneralInformation/{case_study_name}")) # Comment out to avoid opening the browser
+        webbrowser.open(prepend_base(f"/app.html#/GeneralInformation/{case_study_name}"))
     print("MAED done!")
     return results_path
 

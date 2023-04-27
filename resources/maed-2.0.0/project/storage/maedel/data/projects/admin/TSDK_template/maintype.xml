@@ -30,16 +30,4 @@
     <sub1>N</sub1>
     <fname></fname>
   </maintype>
-  <maintype>
-    <id>S4</id>
-    <value>Additional sector 1</value>
-    <sub1>N</sub1>
-    <fname></fname>
-  </maintype>
-  <maintype>
-    <id>S5</id>
-    <value>Additional sector 2</value>
-    <sub1>N</sub1>
-    <fname></fname>
-  </maintype>
 </maintypes>
